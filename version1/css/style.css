@@ -1,0 +1,162 @@
+*{
+  font-family: "Merriweather Sans", Helvetica, sans-serif;
+  margin: 0px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+h1{
+  font-size: 32px;
+  text-align: center;
+  color: #020f1f;
+  line-height: 50px;
+}
+
+h2{
+  font-size: 23px;
+  font-weight: thin;
+  text-align: center;
+  color: #020f1f;
+  line-height: 45px;
+}
+
+h3{
+  font-size: 21px;
+  text-align: center;
+  color: #020f1f;
+  line-height: 40px;
+}
+
+p{
+  font-size: 16px;
+  text-align: center;
+  color: #083e7f;
+  line-height: 25px;
+}
+
+ul{
+  text-align: center;
+}
+
+li{
+  display: inline;
+  text-align: center;
+  padding: 5px;
+  line-height: 30px;
+}
+
+.menu{
+  background-color: #083e7f;
+  width: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+.logo{
+  width: 150px;
+  height: 27.625px;
+  padding: 9px;
+}
+
+.login{
+  text-align: center;
+  background-color: #020f1f;
+  padding: 9px;
+  position: fixed;
+  right: 0px;
+  top: 0px;
+}
+
+.heromain{
+  display: block;
+  background: url(../images/back2.jpg) no-repeat center top;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  padding-bottom: 5px;
+}
+
+.hero, .hero2{
+  color: white;
+}
+
+.herobody{
+  padding: 40px;
+  padding-top: 250px;
+}
+
+.create{
+  display: block;
+  width: 150px;
+  background-color: #083e7f;
+  padding: 15px 20px;
+  margin; 5px;
+  margin: 0 auto;
+  margin-top: 30px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.c1{
+    margin-bottom: 75%;
+}
+
+.herobox{
+  width: 360px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hboxtext {
+  clear: both;
+}
+
+img.hicon{
+  float:left;
+  margin-bottom: 50px;
+}
+
+h3.hero2, p.hero2{
+  margin-left: 3%;
+  text-align: left;
+  float: left;
+}
+
+.main{
+  clear:both;
+  background-color: #aebfc2;
+}
+
+.maintop, .mainbottom{
+  padding: 5%;
+  background-color: #cde1e4;
+}
+
+.mainbox{
+   background-color: white;
+   padding: 5%;
+   margin: 5% 2%;
+}
+
+.icon{
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 5px;
+}
+
+.footer{
+  background-color: #020f1f;
+}
+
+.footmenu{
+  font-size: 12px;
+  padding: 15px 5px;
+}
+
+.footpic{
+ margin: 5px 0px 10px 0px;
+}
